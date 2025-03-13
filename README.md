@@ -109,15 +109,6 @@ Visit **http://localhost:8080/** to view the web-based visualizations.
 
 ---
 
-## ⚠️ Data Availability & Storage Constraints
-- The dataset is **too large to upload to GitHub**, so it must be **downloaded separately** before running the pipeline.
-- **Consequences of this:**
-  - Users need to **manually source the dataset** and place it in the appropriate directory.
-  - The system will **not function correctly without the dataset** in place.
-  - **Storage-efficient solutions like Parquet & Delta Lake** are used to manage large-scale data locally.
-
----
-
 ## Machine Learning Models
 ### **1️⃣ sklearnML.ipynb (Scikit-Learn ML Model)**
 - Implements **Decision Tree & XGBoost Classifiers**.
@@ -149,7 +140,7 @@ Visit **http://localhost:8080/** to view the web-based visualizations.
 
 ---
 
-## 🔄 Workflow Automation with Apache Airflow
+## Workflow Automation with Apache Airflow
 ### **1️⃣ Starting Airflow DAGs**
 ```bash
 cd airflow
