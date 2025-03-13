@@ -170,4 +170,4 @@ Feel free to reach out via:
 
 ---
 
-**© 2025 Mohit Sai Gutha** | Built with ❤️ using **Kafka, Spark, Hadoop & Airflow**
+**© 2025 Mohit Sai Gutha** | Built using **Kafka, Spark, Hadoop & Airflow**
